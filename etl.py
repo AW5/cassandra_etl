@@ -1,11 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 17 23:38:40 2019
-
 @author: anthonywa
-"""
-
 # Import Python packages 
 import pandas as pd
 import cassandra
