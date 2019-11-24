@@ -1,4 +1,3 @@
-@author: anthonywa
 # Import Python packages 
 import pandas as pd
 import cassandra
